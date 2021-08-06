@@ -1,0 +1,9 @@
+{"type":"file","path":"/Users/am/git/logstash/input/input.log","tags":["_jsonparsefailure"],"message":"ppp","@timestamp":"2021-08-06T09:07:58.208Z"}
+{"@timestamp":"2021-08-06T10:06:42.309Z","type":"file","message":"0","path":"/Users/am/git/logstash/input/input.log","num":"0","tags":["_jsonparsefailure"]}
+{"message":"10 21","path":"/Users/am/git/logstash/input/input.log","type":"file","num2":21,"@timestamp":"2021-08-06T10:46:19.821Z","num":10,"tags":["_jsonparsefailure"]}
+{"message":"0 20","path":"/Users/am/git/logstash/input/input.log","type":"file","num2":20,"@timestamp":"2021-08-06T10:46:19.802Z","num":0,"tags":["_jsonparsefailure"]}
+{"message":"10","path":"/Users/am/git/logstash/input/input.log","type":"file","@timestamp":"2021-08-06T10:46:19.822Z","tags":["_jsonparsefailure","_grokparsefailure"]}
+{"message":"0 20","path":"/Users/am/git/logstash/input/input.log","type":"file","num2":20,"@timestamp":"2021-08-06T10:48:41.559Z","num":0,"tags":["_jsonparsefailure"]}
+{"message":"1 22","path":"/Users/am/git/logstash/input/input.log","type":"file","num2":22,"@timestamp":"2021-08-06T10:49:29.553Z","num":"1","tags":["_jsonparsefailure"]}
+{"message":"11","path":"/Users/am/git/logstash/input/input.log","type":"file","@timestamp":"2021-08-06T10:54:37.128Z","tags":["_jsonparsefailure","_grokparsefailure"]}
+{"message":"00 20","path":"/Users/am/git/logstash/input/input.log","type":"file","num2":20,"@timestamp":"2021-08-06T10:55:27.635Z","num":0,"tags":["_jsonparsefailure"]}

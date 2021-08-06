@@ -1,0 +1,1 @@
+{"@timestamp":"2021-08-06T10:31:46.080Z","type":"error","message":"Invalid Request","host":"0:0:0:0:0:0:0:1","headers":{"content_type":"application/x-www-form-urlencoded","http_version":"HTTP/1.1","http_user_agent":"curl/7.64.1","request_path":"/error","request_method":"POST","http_host":"localhost:8081","http_accept":"*/*","content_length":"15"},"@version":"1"}

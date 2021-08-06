@@ -1,0 +1,38 @@
+{"@timestamp":"2021-08-06T09:30:47.624Z","message":"Hey","@version":"1","path":"/Users/am/git/logstash/input/apache.log","host":"ams-MacBook-Pro.local"}
+{"@timestamp":"2021-08-06T09:31:11.881Z","message":"Whatsup","@version":"1","path":"/Users/am/git/logstash/input/apache.log","host":"ams-MacBook-Pro.local"}
+{"@timestamp":"2021-08-06T09:35:07.869Z","message":"184.252.108.229 - bond [20/Sep/2017:13:22:22 +0200] \"GET /products/view/123 HTTP/1.1\" 200 12798 \"http://codebangkok.com/products\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36\"","@version":"1","path":"/Users/am/git/logstash/input/apache.log","host":"ams-MacBook-Pro.local"}
+{"@timestamp":"2021-08-06T09:35:07.870Z","message":"","@version":"1","path":"/Users/am/git/logstash/input/apache.log","host":"ams-MacBook-Pro.local"}
+{"@timestamp":"2021-08-06T09:43:27.838Z","message":"","path":"/Users/am/git/logstash/input/apache.log","host":"ams-MacBook-Pro.local","@version":"1","tags":["_grokparsefailure"]}
+{"@timestamp":"2021-08-06T09:43:27.837Z","message":"84.252.108.229 - bond [20/Sep/2017:13:22:22 +0200] \"GET /products/view/123 HTTP/1.1\" 200 12798 \"http://codebangkok.com/products\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36\"","path":"/Users/am/git/logstash/input/apache.log","host":"ams-MacBook-Pro.local","@version":"1","ip_address":"84.252.108.229"}
+{"@timestamp":"2021-08-06T09:46:53.438Z","message":"84.252.108.229 - bond [20/Sep/2017:13:22:22 +0200] \"GET /products/view/123 HTTP/1.1\" 200 12798 \"http://codebangkok.com/products\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36\"","path":"/Users/am/git/logstash/input/apache.log","host":"ams-MacBook-Pro.local","user_id":"bond","identity":"-","@version":"1","ip_address":"84.252.108.229"}
+{"@timestamp":"2021-08-06T09:46:53.450Z","message":"","path":"/Users/am/git/logstash/input/apache.log","host":"ams-MacBook-Pro.local","@version":"1","tags":["_grokparsefailure"]}
+{"@timestamp":"2021-08-06T09:48:15.696Z","tags":["_grokparsefailure"]}
+{"@timestamp":"2021-08-06T09:48:15.695Z","user_id":"bond","identity":"-","ip_address":"84.252.108.229"}
+{"@timestamp":"2021-08-06T09:50:53.442Z","tags":["_grokparsefailure"]}
+{"@timestamp":"2021-08-06T09:50:53.441Z","timestamp":"20/Sep/2017:13:22:22 +0200","user_id":"bond","identity":"-","ip_address":"84.252.108.229"}
+{"@timestamp":"2021-08-06T09:53:15.986Z","timestamp":"20/Sep/2017:13:22:22 +0200","user_id":"bond","http_method":"GET","identity":"-","ip_address":"84.252.108.229"}
+{"@timestamp":"2021-08-06T09:53:15.988Z","tags":["_grokparsefailure"]}
+{"@timestamp":"2021-08-06T09:53:34.193Z","timestamp":"20/Sep/2017:13:22:22 +0200","user_id":"bond","http_method":"GET","identity":"-","ip_address":"184.252.108.229"}
+{"@timestamp":"2021-08-06T09:53:34.197Z","timestamp":"20/Sep/2017:13:22:22 +0200","user_id":"bond","http_method":"GET","identity":"-","ip_address":"184.252.108.229"}
+{"@timestamp":"2021-08-06T09:53:34.209Z","tags":["_grokparsefailure"]}
+{"@timestamp":"2021-08-06T09:53:34.196Z","timestamp":"20/Sep/2017:13:22:22 +0200","user_id":"bond","http_method":"GET","identity":"-","ip_address":"184.252.108.229"}
+{"@timestamp":"2021-08-06T09:53:34.194Z","timestamp":"20/Sep/2017:13:22:22 +0200","user_id":"bond","http_method":"GET","identity":"-","ip_address":"184.252.108.229"}
+{"@timestamp":"2021-08-06T09:53:34.195Z","timestamp":"20/Sep/2017:13:22:22 +0200","user_id":"bond","http_method":"GET","identity":"-","ip_address":"184.252.108.229"}
+{"@timestamp":"2021-08-06T09:53:34.208Z","timestamp":"20/Sep/2017:13:22:22 +0200","user_id":"bond","http_method":"GET","identity":"-","ip_address":"184.252.108.229"}
+{"@timestamp":"2021-08-06T09:55:42.391Z","tags":["_grokparsefailure"]}
+{"@timestamp":"2021-08-06T09:55:42.390Z","timestamp":"20/Sep/2017:13:22:22 +0200","user_id":"bond","identity":"-","http_method":"GET","request_path":"/products/view/123","ip_address":"84.252.108.229"}
+{"@timestamp":"2021-08-06T09:57:46.999Z","tags":["_grokparsefailure"]}
+{"@timestamp":"2021-08-06T09:57:46.999Z","timestamp":"20/Sep/2017:13:22:22 +0200","user_id":"bond","version":"1.1","identity":"-","http_method":"GET","request_path":"/products/view/123","ip_address":"84.252.108.229"}
+{"@timestamp":"2021-08-06T09:58:29.472Z","tags":["_grokparsefailure"]}
+{"@timestamp":"2021-08-06T09:58:29.471Z","timestamp":"20/Sep/2017:13:22:22 +0200","user_id":"bond","version":1.1,"identity":"-","http_method":"GET","request_path":"/products/view/123","ip_address":"84.252.108.229"}
+{"@timestamp":"2021-08-06T09:59:34.530Z","tags":["_grokparsefailure"]}
+{"@timestamp":"2021-08-06T09:59:34.519Z","timestamp":"20/Sep/2017:13:22:22 +0200","user_id":"bond","version":1.1,"identity":"-","http_status":200,"http_method":"GET","request_path":"/products/view/123","ip_address":"84.252.108.229"}
+{"@timestamp":"2021-08-06T10:01:06.568Z","timestamp":"20/Sep/2017:13:22:22 +0200","user_id":"bond","version":1.1,"identity":"-","bytes":12798,"http_status":200,"http_method":"GET","request_path":"/products/view/123","ip_address":"84.252.108.229"}
+{"@timestamp":"2021-08-06T10:01:06.569Z","tags":["_grokparsefailure"]}
+{"@timestamp":"2021-08-06T10:03:46.553Z","tags":["_grokparsefailure"]}
+{"@timestamp":"2021-08-06T10:03:46.552Z","verb":"GET","timestamp":"20/Sep/2017:13:22:22 +0200","request":"/products/view/123","auth":"bond","bytes":"12798","agent":"\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36\"","httpversion":"1.1","clientip":"184.252.108.229","referrer":"\"http://codebangkok.com/products\"","response":"200","ident":"-"}
+{"@timestamp":"2021-08-06T10:03:46.551Z","verb":"GET","timestamp":"20/Sep/2017:13:22:22 +0200","request":"/products/view/123","auth":"bond","bytes":"12798","agent":"\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36\"","httpversion":"1.1","clientip":"84.252.108.229","referrer":"\"http://codebangkok.com/products\"","response":"200","ident":"-"}
+{"@timestamp":"2021-08-06T10:12:52.054Z","tags":["_grokparsefailure"]}
+{"@timestamp":"2021-08-06T10:12:52.054Z","verb":"GET","timestamp":"20/Sep/2017:13:22:22 +0200","request":"/products/view/123","auth":"bond","bytes":12798,"agent":"\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36\"","httpversion":1.1,"clientip":"84.252.108.229","referrer":"\"http://codebangkok.com/products\"","response":200,"ident":"-"}
+{"@timestamp":"2021-08-06T10:15:44.475Z","tags":["_grokparsefailure"]}
+{"@timestamp":"2021-08-06T10:15:44.475Z","verb":"GET","timestamp":"20/Sep/2017:13:22:22 +0200","request":"/products/view/123","auth":"bond","bytes":12798,"agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36","httpversion":1.1,"clientip":"84.252.108.229","referrer":"http://codebangkok.com/products","response":200,"ident":"-"}
